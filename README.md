@@ -4,3 +4,6 @@ The given Deep Learning model has 2 hidden layers with 6 units each and an outpu
 
 ## Initial Accuracy
 ![](/Screenshot_1.jpg)
+
+## Predictions
+![](/Screenshot_2.jpg)
