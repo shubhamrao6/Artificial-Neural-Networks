@@ -11,4 +11,7 @@ The given Deep Learning model has 2 hidden layers with 6 units each and an outpu
 ## Parameter Tuning                                          
 "This literally took 4 hours!"                                                                          
 ![](/Screenshot_3.jpg)
+
+## Accuracy of the Tuned Model                                     
+![](/Screenshot_4.jpg)
  
